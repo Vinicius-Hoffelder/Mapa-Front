@@ -1,0 +1,14 @@
+.logo {
+  border-radius: 95px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 190px;
+  width: 322px;
+  overflow: hidden;
+}
+
+.logo-img {
+  width: 260px;
+  height: auto;
+}
