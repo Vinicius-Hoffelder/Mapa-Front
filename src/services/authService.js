@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://two025-01-apisample.onrender.com/auth';
+const API_URL = 'https://api-sample-pvco.onrender.com/auth';
 
 function getApiErrorMessage(error, fallbackMessage) {
   const responseMessage = error.response?.data?.message || error.response?.data?.error;
